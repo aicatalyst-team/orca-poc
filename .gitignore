@@ -1,0 +1,3 @@
+# Post-mortem snapshots of sandbox state — contains pairing keys and device
+# tokens; never commit.
+debug-state/
